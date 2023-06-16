@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Secador",
+      "price": 10,
+      "imgUrl": "./images/Secador.png"
+    },
+    {
+      "id": 2,
+      "name": "Aspiradora",
+      "price": 800,
+      "imgUrl": "./images/Aspiradora.png"
+    },
+    {
+      "id": 3,
+      "name": "Tostadora",
+      "price": 400,
+      "imgUrl": "./images/Tostadora.png"
+    },
+    {
+      "id": 4,
+      "name": "Espuma",
+      "price": 550,
+      "imgUrl": "./images/Espuma.png"
+    },
+    {
+      "id": 5,
+      "name": "Plancha",
+      "price": 550,
+      "imgUrl": "./images/Plancha.png" 
+    },
+    {
+      "id": 6,
+      "name": "Lavadora",
+      "price": 550,
+      "imgUrl": "./images/Lavadora.png"
+    },
+    {
+      "id": 7,
+      "name": "Afeitadora",
+      "price": 150,
+      "imgUrl": "./images/Afeitadora.png" 
+    }
+    
+  ]
